@@ -83,6 +83,7 @@ Alguns dados importantes que já nota-se com a primeira análise exploratória i
 
 [Dados do Kaggle](https://www.kaggle.com/datasets/syedafroz6284/fashion-nova-reviews/data)
 
+[COLAB](https://colab.research.google.com/drive/1SUzgnDzDl_HyK5c8_3t3P2b_-9iWxioZ?usp=sharing)
 
 #### Para mais detalhes faça o download do material que preparei com as principais análises disponível no link abaixo:
 
